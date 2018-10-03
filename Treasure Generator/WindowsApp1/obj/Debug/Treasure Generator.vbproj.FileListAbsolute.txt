@@ -1,0 +1,12 @@
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Treasure Generator.vbprojAssemblyReference.cache
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Treasure Generator.vbproj.GenerateResource.cache
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Treasure Generator.vbproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Tom\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
