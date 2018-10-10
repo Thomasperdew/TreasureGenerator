@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Treasure Generator", "Treasure Generator.vbproj", "{638AF5A4-29AA-488A-9013-BB869821E524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638AF5A4-29AA-488A-9013-BB869821E524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638AF5A4-29AA-488A-9013-BB869821E524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638AF5A4-29AA-488A-9013-BB869821E524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638AF5A4-29AA-488A-9013-BB869821E524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD30944-A952-41F8-8A5C-9314F8D027BD}
+	EndGlobalSection
+EndGlobal
